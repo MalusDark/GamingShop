@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\artem\\source\\repos\\GamingShop\\wwwroot\\resources\\home.svg",
+      "PackagePath": "staticwebassets\\resources\\home.svg"
+    },
+    {
+      "Id": "C:\\Users\\artem\\source\\repos\\GamingShop\\wwwroot\\styles.css",
+      "PackagePath": "staticwebassets\\styles.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.GamingShop.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.GamingShop.props",
+      "PackagePath": "build\\GamingShop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.GamingShop.props",
+      "PackagePath": "buildMultiTargeting\\GamingShop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.GamingShop.props",
+      "PackagePath": "buildTransitive\\GamingShop.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

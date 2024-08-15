@@ -30,11 +30,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CatalogController.cs",
+              "DocumentMoniker": "C:\\Users\\artem\\source\\repos\\GamingShop\\Controllers\\CatalogController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CatalogController.cs",
+              "ToolTip": "C:\\Users\\artem\\source\\repos\\GamingShop\\Controllers\\CatalogController.cs",
+              "RelativeToolTip": "Controllers\\CatalogController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T17:12:55.519Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -44,7 +57,7 @@
               "RelativeDocumentMoniker": "Startup.cs",
               "ToolTip": "C:\\Users\\artem\\source\\repos\\GamingShop\\Startup.cs",
               "RelativeToolTip": "Startup.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAYwBQAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwAQAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-15T16:18:29.008Z",
               "EditorCaption": ""
@@ -57,22 +70,9 @@
               "RelativeDocumentMoniker": "Views\\Catalog\\HomePage.cshtml",
               "ToolTip": "C:\\Users\\artem\\source\\repos\\GamingShop\\Views\\Catalog\\HomePage.cshtml",
               "RelativeToolTip": "Views\\Catalog\\HomePage.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAACwAAAAAAAAAAAAQwDEAAABlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-08-15T15:39:17.981Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CatalogController.cs",
-              "DocumentMoniker": "C:\\Users\\artem\\source\\repos\\GamingShop\\Controllers\\CatalogController.cs",
-              "RelativeDocumentMoniker": "Controllers\\CatalogController.cs",
-              "ToolTip": "C:\\Users\\artem\\source\\repos\\GamingShop\\Controllers\\CatalogController.cs",
-              "RelativeToolTip": "Controllers\\CatalogController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-15T15:36:40.536Z",
               "EditorCaption": ""
             },
             {
@@ -83,7 +83,7 @@
               "RelativeDocumentMoniker": "Models\\GamesCatalog.cs",
               "ToolTip": "C:\\Users\\artem\\source\\repos\\GamingShop\\Models\\GamesCatalog.cs",
               "RelativeToolTip": "Models\\GamesCatalog.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAkwAUAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-15T15:00:49.261Z",
               "EditorCaption": ""
@@ -96,7 +96,7 @@
               "RelativeDocumentMoniker": "Models\\Game.cs",
               "ToolTip": "C:\\Users\\artem\\source\\repos\\GamingShop\\Models\\Game.cs",
               "RelativeToolTip": "Models\\Game.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBEAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-15T14:55:00.41Z",
               "EditorCaption": ""

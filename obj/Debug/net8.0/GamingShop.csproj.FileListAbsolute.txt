@@ -26,3 +26,4 @@ C:\Users\artem\source\repos\GamingShop\obj\Debug\net8.0\ref\GamingShop.dll
 C:\Users\artem\source\repos\GamingShop\obj\Debug\net8.0\GamingShop.sourcelink.json
 C:\Users\artem\source\repos\GamingShop\obj\Debug\net8.0\GamingShop.RazorAssemblyInfo.cache
 C:\Users\artem\source\repos\GamingShop\obj\Debug\net8.0\GamingShop.RazorAssemblyInfo.cs
+C:\Users\artem\source\repos\GamingShop\bin\Debug\net8.0\GamingShop.staticwebassets.runtime.json

@@ -1,11 +1,58 @@
 {
   "Version": 1,
-  "Hash": "zR/vGe9tHHQA9R4waD+SV26a3VP1WNi5vXTGrSdvmvk=",
+  "Hash": "hI17Y0vjS7S8KMkBzXXfS1ZgqQXeNHeQgoqubNWH+s0=",
   "Source": "GamingShop",
   "BasePath": "_content/GamingShop",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": []
+  "DiscoveryPatterns": [
+    {
+      "Name": "GamingShop\\wwwroot",
+      "Source": "GamingShop",
+      "ContentRoot": "C:\\Users\\artem\\source\\repos\\GamingShop\\wwwroot\\",
+      "BasePath": "_content/GamingShop",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\artem\\source\\repos\\GamingShop\\wwwroot\\resources\\home.svg",
+      "SourceId": "GamingShop",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\artem\\source\\repos\\GamingShop\\wwwroot\\",
+      "BasePath": "_content/GamingShop",
+      "RelativePath": "resources/home.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\resources\\home.svg"
+    },
+    {
+      "Identity": "C:\\Users\\artem\\source\\repos\\GamingShop\\wwwroot\\styles.css",
+      "SourceId": "GamingShop",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\artem\\source\\repos\\GamingShop\\wwwroot\\",
+      "BasePath": "_content/GamingShop",
+      "RelativePath": "styles.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\styles.css"
+    }
+  ]
 }
