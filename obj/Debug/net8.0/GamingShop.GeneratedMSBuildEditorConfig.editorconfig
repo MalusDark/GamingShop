@@ -17,3 +17,7 @@ build_property.SupportLocalizedComponentNames =
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
 build_property.MSBuildProjectDirectory = C:\Users\artem\source\repos\GamingShop
 build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/artem/source/repos/GamingShop/Views/Catalog/HomePage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0YWxvZ1xIb21lUGFnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
