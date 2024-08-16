@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\artem\\source\\repos\\GamingShop\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C4894E58-4A24-4AEF-90CE-E695AB073419}|GamingShop.csproj|c:\\users\\artem\\source\\repos\\gamingshop\\views\\authentification\\registerpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C4894E58-4A24-4AEF-90CE-E695AB073419}|GamingShop.csproj|solutionrelative:views\\authentification\\registerpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4894E58-4A24-4AEF-90CE-E695AB073419}|GamingShop.csproj|c:\\users\\artem\\source\\repos\\gamingshop\\controllers\\authentificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4894E58-4A24-4AEF-90CE-E695AB073419}|GamingShop.csproj|solutionrelative:controllers\\authentificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4894E58-4A24-4AEF-90CE-E695AB073419}|GamingShop.csproj|c:\\users\\artem\\source\\repos\\gamingshop\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4894E58-4A24-4AEF-90CE-E695AB073419}|GamingShop.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C4894E58-4A24-4AEF-90CE-E695AB073419}|GamingShop.csproj|c:\\users\\artem\\source\\repos\\gamingshop\\views\\catalog\\homepage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C4894E58-4A24-4AEF-90CE-E695AB073419}|GamingShop.csproj|solutionrelative:views\\catalog\\homepage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C4894E58-4A24-4AEF-90CE-E695AB073419}|GamingShop.csproj|c:\\users\\artem\\source\\repos\\gamingshop\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C4894E58-4A24-4AEF-90CE-E695AB073419}|GamingShop.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C4894E58-4A24-4AEF-90CE-E695AB073419}|GamingShop.csproj|c:\\users\\artem\\source\\repos\\gamingshop\\controllers\\catalogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C4894E58-4A24-4AEF-90CE-E695AB073419}|GamingShop.csproj|solutionrelative:controllers\\catalogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C4894E58-4A24-4AEF-90CE-E695AB073419}|GamingShop.csproj|c:\\users\\artem\\source\\repos\\gamingshop\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C4894E58-4A24-4AEF-90CE-E695AB073419}|GamingShop.csproj|solutionrelative:models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C4894E58-4A24-4AEF-90CE-E695AB073419}|GamingShop.csproj|c:\\users\\artem\\source\\repos\\gamingshop\\models\\gamescatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C4894E58-4A24-4AEF-90CE-E695AB073419}|GamingShop.csproj|solutionrelative:models\\gamescatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,66 +39,66 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "CatalogController.cs",
-              "DocumentMoniker": "C:\\Users\\artem\\source\\repos\\GamingShop\\Controllers\\CatalogController.cs",
-              "RelativeDocumentMoniker": "Controllers\\CatalogController.cs",
-              "ToolTip": "C:\\Users\\artem\\source\\repos\\GamingShop\\Controllers\\CatalogController.cs",
-              "RelativeToolTip": "Controllers\\CatalogController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\artem\\source\\repos\\GamingShop\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\artem\\source\\repos\\GamingShop\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBAAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-15T17:12:55.519Z",
+              "WhenOpened": "2024-08-16T08:35:12.854Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Startup.cs",
-              "DocumentMoniker": "C:\\Users\\artem\\source\\repos\\GamingShop\\Startup.cs",
-              "RelativeDocumentMoniker": "Startup.cs",
-              "ToolTip": "C:\\Users\\artem\\source\\repos\\GamingShop\\Startup.cs",
-              "RelativeToolTip": "Startup.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAYwAQAAAAUAAAAAAAAAA==",
+              "Title": "AuthentificationController.cs",
+              "DocumentMoniker": "C:\\Users\\artem\\source\\repos\\GamingShop\\Controllers\\AuthentificationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthentificationController.cs",
+              "ToolTip": "C:\\Users\\artem\\source\\repos\\GamingShop\\Controllers\\AuthentificationController.cs",
+              "RelativeToolTip": "Controllers\\AuthentificationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-15T16:18:29.008Z",
+              "WhenOpened": "2024-08-16T07:31:00.847Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "HomePage.cshtml",
-              "DocumentMoniker": "C:\\Users\\artem\\source\\repos\\GamingShop\\Views\\Catalog\\HomePage.cshtml",
-              "RelativeDocumentMoniker": "Views\\Catalog\\HomePage.cshtml",
-              "ToolTip": "C:\\Users\\artem\\source\\repos\\GamingShop\\Views\\Catalog\\HomePage.cshtml*",
-              "RelativeToolTip": "Views\\Catalog\\HomePage.cshtml*",
-              "ViewState": "AgIAACwAAAAAAAAAAAAQwDIAAAAAAAAAAAAAAA==",
+              "Title": "RegisterPage.cshtml",
+              "DocumentMoniker": "C:\\Users\\artem\\source\\repos\\GamingShop\\Views\\Authentification\\RegisterPage.cshtml",
+              "RelativeDocumentMoniker": "Views\\Authentification\\RegisterPage.cshtml",
+              "ToolTip": "C:\\Users\\artem\\source\\repos\\GamingShop\\Views\\Authentification\\RegisterPage.cshtml",
+              "RelativeToolTip": "Views\\Authentification\\RegisterPage.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-15T15:39:17.981Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "GamesCatalog.cs",
-              "DocumentMoniker": "C:\\Users\\artem\\source\\repos\\GamingShop\\Models\\GamesCatalog.cs",
-              "RelativeDocumentMoniker": "Models\\GamesCatalog.cs",
-              "ToolTip": "C:\\Users\\artem\\source\\repos\\GamingShop\\Models\\GamesCatalog.cs",
-              "RelativeToolTip": "Models\\GamesCatalog.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-15T15:00:49.261Z",
+              "WhenOpened": "2024-08-16T07:31:32.863Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Game.cs",
-              "DocumentMoniker": "C:\\Users\\artem\\source\\repos\\GamingShop\\Models\\Game.cs",
-              "RelativeDocumentMoniker": "Models\\Game.cs",
-              "ToolTip": "C:\\Users\\artem\\source\\repos\\GamingShop\\Models\\Game.cs",
-              "RelativeToolTip": "Models\\Game.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAaAAAAAAAAAA==",
+              "Title": "HomePage.cshtml",
+              "DocumentMoniker": "C:\\Users\\artem\\source\\repos\\GamingShop\\Views\\Catalog\\HomePage.cshtml",
+              "RelativeDocumentMoniker": "Views\\Catalog\\HomePage.cshtml",
+              "ToolTip": "C:\\Users\\artem\\source\\repos\\GamingShop\\Views\\Catalog\\HomePage.cshtml",
+              "RelativeToolTip": "Views\\Catalog\\HomePage.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-16T07:59:32.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\artem\\source\\repos\\GamingShop\\Startup.cs",
+              "RelativeDocumentMoniker": "Startup.cs",
+              "ToolTip": "C:\\Users\\artem\\source\\repos\\GamingShop\\Startup.cs",
+              "RelativeToolTip": "Startup.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwBoAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-15T14:55:00.41Z",
+              "WhenOpened": "2024-08-15T16:18:29.008Z",
               "EditorCaption": ""
             }
           ]

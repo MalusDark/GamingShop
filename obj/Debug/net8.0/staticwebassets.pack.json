@@ -1,8 +1,12 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\artem\\source\\repos\\GamingShop\\wwwroot\\resources\\home.svg",
-      "PackagePath": "staticwebassets\\resources\\home.svg"
+      "Id": "C:\\Users\\artem\\source\\repos\\GamingShop\\wwwroot\\resources\\Home.jpg",
+      "PackagePath": "staticwebassets\\resources\\Home.jpg"
+    },
+    {
+      "Id": "C:\\Users\\artem\\source\\repos\\GamingShop\\wwwroot\\resources\\background.jpg",
+      "PackagePath": "staticwebassets\\resources\\background.jpg"
     },
     {
       "Id": "C:\\Users\\artem\\source\\repos\\GamingShop\\wwwroot\\styles.css",

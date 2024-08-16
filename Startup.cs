@@ -21,6 +21,12 @@
                     name: "default",
                     pattern: "{controller=Catalog}/{action=HomePage}");
             });
+            app.UseEndpoints(endpoints =>
+            {
+                endpoints.MapControllerRoute(
+                    name: "register",
+                    pattern: "{controller=Authentification}/{action=RegisterPage}");
+            });
         }
     }
 }

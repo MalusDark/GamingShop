@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "hI17Y0vjS7S8KMkBzXXfS1ZgqQXeNHeQgoqubNWH+s0=",
+  "Hash": "SUXkaoDd5xmFEYqUDqYQh4BFUr+kCSvgCUD+++OsfLM=",
   "Source": "GamingShop",
   "BasePath": "_content/GamingShop",
   "Mode": "Default",
@@ -17,12 +17,12 @@
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\artem\\source\\repos\\GamingShop\\wwwroot\\resources\\home.svg",
+      "Identity": "C:\\Users\\artem\\source\\repos\\GamingShop\\wwwroot\\resources\\background.jpg",
       "SourceId": "GamingShop",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\artem\\source\\repos\\GamingShop\\wwwroot\\",
       "BasePath": "_content/GamingShop",
-      "RelativePath": "resources/home.svg",
+      "RelativePath": "resources/background.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -33,7 +33,26 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\resources\\home.svg"
+      "OriginalItemSpec": "wwwroot\\resources\\background.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\artem\\source\\repos\\GamingShop\\wwwroot\\resources\\Home.jpg",
+      "SourceId": "GamingShop",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\artem\\source\\repos\\GamingShop\\wwwroot\\",
+      "BasePath": "_content/GamingShop",
+      "RelativePath": "resources/Home.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\resources\\Home.jpg"
     },
     {
       "Identity": "C:\\Users\\artem\\source\\repos\\GamingShop\\wwwroot\\styles.css",
